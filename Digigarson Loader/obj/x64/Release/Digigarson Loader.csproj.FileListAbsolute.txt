@@ -1,0 +1,31 @@
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.exe.config
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.csprojAssemblyReference.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Loader.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Updater\UpdaterWindow.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\App.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader_MarkupCompile.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader_MarkupCompile.lref
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Loader.baml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Updater\UpdaterWindow.baml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.g.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson_Loader.Properties.Resources.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.csproj.GenerateResource.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.exe.config
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.exe
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\x64\Release\Digigarson Loader.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Loader.g.cs
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Updater\UpdaterWindow.g.cs
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\App.g.cs
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader_MarkupCompile.cache
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader_MarkupCompile.lref
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Loader.baml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Updater\UpdaterWindow.baml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.g.resources
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson_Loader.Properties.Resources.resources
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.csproj.GenerateResource.cache
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.exe
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\x64\Release\Digigarson Loader.pdb

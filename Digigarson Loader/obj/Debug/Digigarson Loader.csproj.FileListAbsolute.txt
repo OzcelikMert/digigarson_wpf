@@ -1,0 +1,16 @@
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\Debug\Digigarson Loader.exe.config
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\Debug\Digigarson Loader.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\bin\Debug\Digigarson Loader.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader.csprojAssemblyReference.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Loader.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Updater\UpdaterWindow.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\App.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader_MarkupCompile.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader_MarkupCompile.lref
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Loader.baml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Updater\UpdaterWindow.baml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader.g.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson_Loader.Properties.Resources.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader.csproj.GenerateResource.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson Loader\obj\Debug\Digigarson Loader.pdb

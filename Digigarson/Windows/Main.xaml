@@ -1,0 +1,17 @@
+﻿<Window x:Class="Digigarson.Windows.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wfh="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:local="clr-namespace:Digigarson.Windows"
+        mc:Ignorable="d"
+        Title="Digigarson" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized" Closing="Window_Closing">
+    <Grid x:Name="MainGrid">
+        <WindowsFormsHost x:Name="MainWFH">
+            <wfh:Control x:Name="MainWFHControl">
+                <!-- Add Browser in Code -->
+            </wfh:Control>
+        </WindowsFormsHost>
+    </Grid>
+</Window>

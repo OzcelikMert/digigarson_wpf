@@ -1,0 +1,244 @@
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_100_percent.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_200_percent.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_extensions.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\chrome_elf.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\d3dcompiler_47.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\devtools_resources.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\icudtl.dat
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libcef.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libEGL.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libGLESv2.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\am.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ar.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\bg.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\bn.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ca.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\cs.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\da.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\de.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\el.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\en-GB.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\en-US.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\es-419.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\es.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\et.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fa.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fi.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fil.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fr.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\gu.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\he.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hi.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hr.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hu.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\id.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\it.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ja.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\kn.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ko.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\lt.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\lv.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ml.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\mr.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ms.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\nb.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\nl.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pl.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pt-BR.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pt-PT.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ro.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ru.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sk.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sl.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sr.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sv.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sw.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ta.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\te.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\th.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\tr.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\uk.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\vi.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\zh-CN.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\zh-TW.pak
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\natives_blob.bin
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\README.txt
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\snapshot_blob.bin
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\swiftshader\libEGL.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\swiftshader\libGLESv2.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\v8_context_snapshot.bin
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.XML
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.XML
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.exe.config
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.PdfSharp.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.Charting.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.License.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.Pdf.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Microsoft.mshtml.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.PdfSharp.pdb
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.Charting.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.License.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.Pdf.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.dll.config
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\de\PdfSharp.resources.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csprojAssemblyReference.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Windows\Main.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\App.g.cs
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson_MarkupCompile.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson_MarkupCompile.lref
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Windows\Main.baml
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.g.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.Properties.Resources.resources
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csproj.GenerateResource.cache
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csproj.CopyComplete
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.exe
+C:\Users\dy\Desktop\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_100_percent.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_200_percent.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\cef_extensions.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\chrome_elf.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\d3dcompiler_47.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\devtools_resources.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\icudtl.dat
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libcef.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libEGL.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\libGLESv2.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\am.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ar.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\bg.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\bn.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ca.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\cs.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\da.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\de.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\el.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\en-GB.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\en-US.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\es-419.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\es.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\et.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fa.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fi.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fil.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\fr.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\gu.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\he.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hi.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hr.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\hu.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\id.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\it.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ja.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\kn.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ko.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\lt.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\lv.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ml.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\mr.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ms.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\nb.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\nl.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pl.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pt-BR.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\pt-PT.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ro.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ru.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sk.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sl.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sr.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sv.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\sw.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\ta.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\te.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\th.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\tr.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\uk.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\vi.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\zh-CN.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\locales\zh-TW.pak
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\natives_blob.bin
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\README.txt
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\snapshot_blob.bin
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\swiftshader\libEGL.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\swiftshader\libGLESv2.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\v8_context_snapshot.bin
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.Core.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.Core.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.exe
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.BrowserSubprocess.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.Core.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.XML
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\CefSharp.WinForms.XML
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.exe.config
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.exe
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Digigarson.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.SqlServer.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.PdfSharp.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.Charting.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.License.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.Pdf.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.EF6.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.Linq.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Microsoft.mshtml.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\EntityFramework.SqlServer.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\HtmlRenderer.PdfSharp.pdb
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\PdfSharp.Charting.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.License.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\Spire.Pdf.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.xml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\System.Data.SQLite.dll.config
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\de\PdfSharp.resources.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\bin\x64\Release\de\PdfSharp.Charting.resources.dll
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csprojAssemblyReference.cache
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Windows\Main.g.cs
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\App.g.cs
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson_MarkupCompile.cache
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson_MarkupCompile.lref
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Windows\Main.baml
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.g.resources
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.Properties.Resources.resources
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csproj.GenerateResource.cache
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.csproj.CopyComplete
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.exe
+D:\Digigarson Files\Digigarson C#\Chromium WebBrowser\Digigarson\Digigarson\obj\x64\Release\Digigarson.pdb
